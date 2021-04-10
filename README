@@ -1,0 +1,13 @@
+BPI Bit (bpi:bit) Weather Info for MicroPython
+
+WIP. Still need to figure out how to do deepsleep and make caching better.
+
+Some of the display code was based on:
+
+https://github.com/BPI-STEAM/MicroPython-Samples
+
+(hence licence file)
+
+ucontextlib.py is from:
+
+https://github.com/micropython/micropython-lib/blob/master/ucontextlib/ucontextlib.py
